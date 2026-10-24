@@ -43,7 +43,7 @@ flowchart LR
 Backend:
 
 ```bash
-git clone https://github.com/ChristopherJoshy/sahayi.git
+git clone https://github.com/ChristopherJoshy/Sahayi.git
 cd sahayi/sahayi/backend
 python -m venv .venv
 # Windows: .venv\Scripts\Activate.ps1
